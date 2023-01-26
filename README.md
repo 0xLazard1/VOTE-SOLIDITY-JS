@@ -1,13 +1,16 @@
-# Sample Hardhat Project
+SIMPLE-APP-SOLIDITY
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+npm install
 
-Try running some of the following tasks:
+npm start
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
 npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
+npx hardhat test
+
+npx hardhat deploy run 
+
+
+connect with localhost of hardhat
+
+try the App
